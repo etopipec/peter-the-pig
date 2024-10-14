@@ -1,1 +1,1 @@
-gh-pages: https://vadimkakharitonenko.github.io/peter-the-pig/
+gh-pages: https://etopipec.github.io/peter-the-pig/
